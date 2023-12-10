@@ -1,6 +1,5 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "terminal"
 
 [params]
   contentTypeName = ""
