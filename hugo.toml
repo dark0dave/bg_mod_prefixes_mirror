@@ -1,0 +1,22 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "terminal"
+
+[params]
+  contentTypeName = ""
+  themeColor = "red"
+  showMenuItems = 2
+  showLanguageSelector = false
+  fullWidthTheme = false
+  centerTheme = false
+  autoCover = true
+  showLastUpdated = false
+  favicon = ""
+
+[languages]
+  [languages.en]
+    title = "BG Mod Prefixes"
+
+    [languages.en.params.logo]
+      logoText = "BG Mod Prefixes"
+      logoHomeLink = "/"
